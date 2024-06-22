@@ -44,12 +44,13 @@
 7. Instances using any DDoS Protection / MITM MUST be marked as such (e.g. Cloudflare, DDoS-Guard).
 8. Instances using any type of anti-bot protection MUST be marked as such.
 9. Instances MUST NOT use any type of analytics.
-10. Any system whose goal is to modify the content served to the user (i.e web server HTML rewrite) is considered the same as modifying the source code.
-11. Instances running a modified source code:
+10. Instances MUST use the video proxy script, for privacy
+11. Any system whose goal is to modify the content served to the user (i.e web server HTML rewrite) is considered the same as modifying the source code.
+12. Instances running a modified source code:
     - MUST respect the [GNU AGPL](https://en.wikipedia.org/wiki/GNU_Affero_General_Public_License) by publishing their source code and stating their changes **before** they are added to the list
     - MUST publish any later modification in a timely manner
     - MUST contain a link to both the modified and original source code of Invidious in the footer.
-12. Instances MUST NOT serve ads (sponsorship links in the banner are considered ads) NOR promote products.
-13. Instances MUST NOT restrict or disallow the access / usage to any [natural person](https://en.wikipedia.org/wiki/Natural_person) (e.g. a country's IP range MUST NOT be blocked, access by a natural person MUST NOT be disallowed for arbitrary reason) - this rule doesn't apply to [juridical persons](https://en.wikipedia.org/wiki/Juridical_person).
+13. Instances MUST NOT serve ads (sponsorship links in the banner are considered ads) NOR promote products.
+14. Instances MUST NOT restrict or disallow the access / usage to any [natural person](https://en.wikipedia.org/wiki/Natural_person) (e.g. a country's IP range MUST NOT be blocked, access by a natural person MUST NOT be disallowed for arbitrary reason) - this rule doesn't apply to [juridical persons](https://en.wikipedia.org/wiki/Juridical_person).
 
 **NOTE:** We reserve the right to decline any instance from being added to the list, and to remove / ban any instance breaking the aforementioned rules.
