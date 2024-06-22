@@ -8,56 +8,22 @@
 
 ## List of public Invidious Instances (sorted from oldest to newest):
 
-* [yewtu.be](https://yewtu.be) 🇩🇪 - Source code/changes: https://github.com/yewtudotbe/invidious-custom
-
-* [invidious.flokinet.to](https://invidious.flokinet.to) 🇷🇴
-
-* [invidious.privacydev.net](https://invidious.privacydev.net) 🇫🇷
-
-* [inv.nadeko.net](https://inv.nadeko.net) 🇨🇱 
-
-* [inv.tux.pizza](https://inv.tux.pizza) 🇺🇸 
-
 * [invidious.private.coffee](https://invidious.private.coffee) 🇦🇹
-
-* [yt.drgnz.club](https://yt.drgnz.club) 🇨🇿
 
 * [iv.datura.network](https://iv.datura.network) 🇫🇮
 
 * [invidious.fdn.fr](https://invidious.fdn.fr) 🇫🇷
 
-* [invidious.perennialte.ch](https://invidious.perennialte.ch) 🇦🇺 (uses Cloudflare)
-
-* [invidious.drgns.space](https://invidious.drgns.space) 🇺🇸
-
-* [inv.us.projectsegfau.lt](https://inv.us.projectsegfau.lt) 🇺🇸
-
 * [invidious.jing.rocks](https://invidious.jing.rocks) 🇯🇵  
 
 * [invidious.privacyredirect.com](https://invidious.privacyredirect.com) 🇫🇮
-
-* [invidious.reallyaweso.me](https://invidious.reallyaweso.me) 🇩🇪
-
-* [invidious.materialio.us](https://invidious.materialio.us) 🇳🇿
-
-* [inv.in.projectsegfau.lt](https://inv.in.projectsegfau.lt) 🇮🇳
 
 * [invidious.incogniweb.net](https://invidious.incogniweb.net) 🇺🇸
 
 
 ### Tor Onion Services:
 
-* [grwp24hodrefzvjjuccrkw3mjq4tzhaaq32amf33dzpmuxe7ilepcmad.onion](http://grwp24hodrefzvjjuccrkw3mjq4tzhaaq32amf33dzpmuxe7ilepcmad.onion) 🇺🇸 (Onion of vid.puffyan.us)
-
-* [ng27owmagn5amdm7l5s3rsqxwscl5ynppnis5dqcasogkyxcfqn7psid.onion](http://ng27owmagn5amdm7l5s3rsqxwscl5ynppnis5dqcasogkyxcfqn7psid.onion) 🇩🇪 (Onion of yt.artemislena.eu)
-
-* [invidious.g4c3eya4clenolymqbpgwz3q3tawoxw56yhzk4vugqrl6dtu3ejvhjid.onion](http://invidious.g4c3eya4clenolymqbpgwz3q3tawoxw56yhzk4vugqrl6dtu3ejvhjid.onion) 🇫🇷 (Onion of invidious.privacydev.net)
-
 * [inv.pjsfkvpxlinjamtawaksbnnaqs2fc2mtvmozrzckxh7f3kis6yea25ad.onion](http://inv.pjsfkvpxlinjamtawaksbnnaqs2fc2mtvmozrzckxh7f3kis6yea25ad.onion) 🇩🇪 (Onion of invidious.projectsegfau.lt)
-
-* [inv.nadekonw7plitnjuawu6ytjsl7jlglk2t6pyq6eftptmiv3dvqndwvyd.onion](http://inv.nadekonw7plitnjuawu6ytjsl7jlglk2t6pyq6eftptmiv3dvqndwvyd.onion) 🇨🇱 (Onion of inv.nadeko.net)
-
-* [nerdvpneaggggfdiurknszkbmhvjndks5z5k3g5yp4nhphflh3n3boad.onion](http://nerdvpneaggggfdiurknszkbmhvjndks5z5k3g5yp4nhphflh3n3boad.onion) 🇺🇦 (Onion of invidious.nerdvpn.de)
 
 ### I2P Eepsites:
 
